@@ -1,9 +1,6 @@
-cmake
-ffmpeg
 Keras
 numpy
 opencv-python
 pandas
 streamlit
 tensorflow
-dlib
