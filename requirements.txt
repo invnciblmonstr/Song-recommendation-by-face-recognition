@@ -2,3 +2,4 @@ opencv-python
 numpy
 keras
 ffmpeg
+libgl1-mesa-glx
