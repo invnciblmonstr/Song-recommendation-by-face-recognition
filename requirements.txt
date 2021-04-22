@@ -58,10 +58,6 @@ h5py==2.10.0
 html5lib==1.1
 idna==2.10
 importlib-resources==5.1.2
-ipykernel==5.5.2
-ipython==7.22.0
-ipython-genutils==0.2.0
-ipywidgets==7.6.3
 iso3166==1.0.1
 itsdangerous==1.1.0
 jedi==0.18.0
